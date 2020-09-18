@@ -29,7 +29,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on on my own startup.<a href="https://aadarshstocks.in/">Visit Website</a>
+- 🔭 I’m currently working on my own startup.<a href="https://aadarshstocks.in/">Visit Website</a>
 - 🌱 I’m currently learning
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="https://gauravanand.in/">My Website</a>
