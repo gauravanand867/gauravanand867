@@ -27,10 +27,15 @@
 <br />
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my own startup.<a href="https://aadarshstocks.in/">Visit Website</a>
 - 🌱 I’m currently learning
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="https://gauravanand.in/">My Website</a>
 - 😄 Pronouns: Gaurav Anand
+
+## Some of my Github Stats
+<p align=left> ![](https://visitor-badge.glitch.me/badge?page_id=gauravanand867.gauravanand867)</p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=gauravanand867&show_icons=true&include_all_commits=true)](https://github.com/gauravanand867/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravanand867&layout=compact)](https://github.com/gauravanand867/)
