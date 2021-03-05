@@ -24,8 +24,6 @@
 
 <br />
 
-
-
 - 🔭 I’m currently working on my own startup.<a href="https://aadarshstocks.in/">Visit Website</a>
 - 🌱 I’m currently learning
 - 💬 Ask me about anything
