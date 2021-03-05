@@ -22,8 +22,6 @@
   <img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=gauravanand867.gauravanand867)
-
 <br />
 
 
