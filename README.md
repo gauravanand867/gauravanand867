@@ -27,7 +27,7 @@
 
 
 - 🔭 I’m currently working on building <a href="https://tourbee.in/">Tourbee</a>
-- 🌱 I’m currently learning
+- 🌱 I’m building some cool projects.
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="https://gauravanand.in/">My Website</a>
 - 😄 Pronouns: Gaurav Anand
